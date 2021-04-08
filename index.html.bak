@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>SPHK1</title>
   </head>
-  <body style="         background-color: white; width: 711.299px;">
+  <body style="           background-color: white; width: 711.299px;">
     <p style="background-color: white;"> </p>
     <div id="content-protein" class="entry-overview-content" style="font-weight: 400; font-style: normal; text-decoration: none; text-align: left; text-indent: 0px; grid-column: 2 / auto; vertical-align: top; margin-top: 0px; padding-top: 0px; padding-left: 0.5rem; border-left: 4px solid #99c6d7; margin-left: 4px; box-sizing: border-box; color: #222222; font-family: Verdana,Arial,sans-serif; font-size: 13px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; width: 711.806px;">
       <h1 property="name" style="font-weight: 700; font-style: normal; text-decoration: none; text-align: left; text-indent: 0px; padding: 0px; font-family: Verdana, sans-serif; line-height: 1.2; margin: 0px; width: auto; font-size: 30px; color: rgb(0, 0, 0); display: inline;">
@@ -13,8 +13,10 @@
     </div>
     <p>&nbsp;&nbsp;&nbsp; </p>
     <p><span style="font-family: Helvetica,Arial,sans-serif;"><span>0617063 劉懿</span></span></p>
-    <p><a href="#motivation">Motivation</a>
-      <br>
+    <p><a href="#motivation">Motivation</a> <br>
+    </p>
+    <p><a href="#function">Function</a> <br>
+    <p><a href="#seq">Sequence</a> <br>
     </p>
     <p style="text-align: center;"><img src="litemol_screenshot.png" alt="" title="p21_structure"
         style="width: 592px; height: 406px;"></p>
@@ -83,7 +85,9 @@
     <p><br>
     </p>
     <p><b><span style="font-family: Verdana; font-size: 20px; color: #408000;"><span
-            style="color: #ff6666;">Function</span><br>
+            style="color: #ff6666;"><a
+              name="function"
+              id="function"></a>Function</span><br>
         </span></b> </p>
     <ul>
       <li style="width: 743.776px;"><span style="font-family: Helvetica,Arial,sans-serif;"><span
@@ -142,7 +146,9 @@
         title="sphk1_stitch"
         style="width: 529.94px;"
         width="45%"></p>
-    <p> <span style="color: #8c6eb7; font-size: 20px"><b><span style="font-family: Verdana; color: #004080;">Sequence</span><br>
+    <p> <span style="color: #8c6eb7; font-size: 20px"><b><span style="font-family: Verdana; color: #004080;"><a
+              name="seq"
+              id="seq"></a>Sequence</span><br>
         </b></span></p>
     <p style="background-color: white;"> </p>
     <div style="text-align: left;">
