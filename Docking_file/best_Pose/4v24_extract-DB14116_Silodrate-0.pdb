@@ -1,0 +1,16 @@
+REMARK
+REMARK Protein : 4v24_extract         Res. Num :   80  Receptor Atom Num :  370 
+REMARK Drug    : DB14116_Silodrate    Atom Num :    4  Single Bond Num   :    0 
+REMARK FitnessValue = HB&van der Waals + Elect + IntraEnergy
+REMARK   -45.782952 =   -41.483565 +    -4.299387 +     0.000000
+REMARK
+HETATM 9001  O   UNK Z 999     -33.751   4.111 -17.093  1.00  0.00
+HETATM 9002 Si   UNK Z 999     -32.986   3.480 -16.004  1.00  0.00
+HETATM 9003  O   UNK Z 999     -31.856   2.546 -16.764  1.00  0.00
+HETATM 9004  O   UNK Z 999     -32.222   4.730 -15.241  1.00  0.00
+CONECT 9001 9002
+CONECT 9002 9001 9003 9004
+CONECT 9003 9002
+CONECT 9004 9002
+SINGLE 9002 9003 2 2
+SINGLE 9002 9004 2 2
